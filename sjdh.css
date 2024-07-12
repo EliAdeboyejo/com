@@ -1,0 +1,30 @@
+
+.text{
+    margin-top: 100px;
+}
+
+.main{
+    justify-content: space-between;
+    display: flex;
+}
+
+p{
+    color: rgb(61, 86, 231);
+    margin-bottom: 75px;
+}
+
+h1{
+    font-size: 2.7rem;
+}
+
+.frame{
+    margin-top: 125px;
+    margin-right: 375px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.work{
+     margin-left: 45px;
+     
+}
